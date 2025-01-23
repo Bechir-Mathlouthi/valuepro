@@ -1,0 +1,31 @@
+Company Name,Sector,Revenue,EBITDA,Net Income,Total Assets,Total Debt,Cash and Equivalents,Working Capital,Capex,Depreciation,Inventory,Accounts Receivable,Accounts Payable,Total Equity,Interest Expense
+TechCorp SA,Technology,150000000,45000000,25000000,200000000,50000000,30000000,20000000,15000000,10000000,5000000,25000000,15000000,150000000,2500000
+
+Historical Data Year,Revenue,EBITDA,Net Income
+2021,150000000,45000000,25000000
+2020,130000000,39000000,21000000
+2019,110000000,33000000,18000000
+
+Comparable Company,EV/EBITDA,P/E Ratio,EV/Revenue,EV/EBIT,Price/Book,Price/Sales,Dividend Yield
+Digital Solutions,12.5,20.3,3.2,15.4,4.2,3.1,1.2
+Tech Innovate,14.2,22.1,3.8,17.2,4.8,3.5,0.8
+Software Plus,11.8,18.5,2.9,14.1,3.9,2.8,1.5
+Cloud Systems,13.5,21.2,3.5,16.3,4.5,3.3,1.0
+AI Technologies,15.1,24.5,4.1,18.5,5.1,3.8,0.7
+
+Financial Ratios,Value
+Gross Margin,65.5
+EBITDA Margin,30.0
+Operating Margin,25.0
+Net Margin,16.7
+ROA,12.5
+ROE,16.7
+ROIC,15.0
+Current Ratio,2.1
+Quick Ratio,1.8
+Cash Ratio,1.2
+Asset Turnover,0.75
+Inventory Turnover,10.0
+Receivables Turnover,6.0
+Debt to Equity,0.33
+Interest Coverage,18.0
